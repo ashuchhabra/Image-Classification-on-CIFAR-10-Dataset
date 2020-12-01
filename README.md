@@ -25,6 +25,6 @@ horse
 ship
 truck
 
-# Results
+## Results
 1. When tried with a artificial neural network, got an accuracy of 55% on the training data. To improve the accuracy , CNN model is applied before the densely connected network.
 2. After applying the CNN, both validation and test accuracy got improved to 86.43%.
